@@ -6,3 +6,5 @@ These are the folders included:
 - x64: 64-bit Windows
 - lib64: 64-bit Linux
 - osx: macOS Universal (32/64-bit)
+
+All binaries have been compiled as shared libraries and in release mode, with all archive types enabled.
